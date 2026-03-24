@@ -18,9 +18,11 @@ The attacker poses as a customer care executive from a popular e-commerce or foo
 
 the victim regarding a "pending refund" for a recent failed transaction.
 
-Social Engineering: The scammer gains trust by quoting a realistic (though guessed) refund amount and creates a sense of
+Social Engineering: 
 
-urgency, stating the link will expire in minutes.
+The scammer gains trust by quoting a realistic (though guessed) refund amount and creates a sense of urgency, stating the 
+
+link will expire in minutes.
 
 
 The Deception:
