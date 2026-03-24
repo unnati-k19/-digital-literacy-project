@@ -1,4 +1,6 @@
-Case Study 
+PART A- Case Study 
+
+
 Title: The "Refund Request" UPI QR Code Scam
 
 What the crime is:
