@@ -7,7 +7,7 @@
 
 This repository serves as a comprehensive portfolio of my work as a **Student Digital Ambassador**. It demonstrates proficiency in digital literacy, professional communication, technical skill development, and cyber security awareness.
 
-## 📁 Repository Structure
+## Repository Structure
 
 The project is organized into five main folders, each corresponding to a specific task milestone:
 
@@ -21,7 +21,7 @@ The project is organized into five main folders, each corresponding to a specifi
 
 ---
 
-## 🚀 Task Summaries
+## Task Summaries
 
 ### Task 1: Digital Literacy Infographic
 Created a visual guide using **Canva** to educate batchmates on safe internet practices, digital footprints, and professional online branding.
@@ -45,7 +45,7 @@ Researched a detailed case study on **UPI/Online Payment Fraud** (specifically Q
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 * **Programming:** Python, Logic-based problem solving.
 * **Tools:** Google Workspace, Canva, GitHub, Kaggle.
 * **Cyber Security:** Social engineering awareness, UPI safety, 2FA implementation.
@@ -53,8 +53,8 @@ Researched a detailed case study on **UPI/Online Payment Fraud** (specifically Q
 
 ---
 
-## 👤 About Me
-I am a first-year student pursuing a degree in **Computer Science and Engineering (Specialization in Cyber Security and Digital Forensic)**. I am passionate about using technology to solve problems and am committed to helping my community stay safe and informed in the digital age.
+## About Me
+My name is Unnati Khandelwal and I am a first-year student pursuing a degree in **Computer Science and Engineering (Specialization in Cyber Security and Digital Forensic)**. I am passionate about using technology to solve problems and am committed to helping my community stay safe and informed in the digital age.
 
 ---
 *Developed as part of the Digital Ambassador Program 2026.*
