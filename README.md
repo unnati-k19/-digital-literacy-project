@@ -43,14 +43,14 @@ Researched a detailed case study on **UPI/Online Payment Fraud** (specifically Q
 
 ## 🛠️ Skills Demonstrated
 * **Programming:** Python, Logic-based problem solving.
-* **Tools:** Google Workspace (Forms/Sheets/Docs), Canva, GitHub, Kaggle.
+* **Tools:** Google Workspace, Canva, GitHub, Kaggle.
 * **Cyber Security:** Social engineering awareness, UPI safety, 2FA implementation.
 * **Communication:** Professional email drafting, data visualization, and reporting.
 
 ---
 
 ## 👤 About Me
-I am a first-year student pursuing a degree in **Computer Science and Engineering (Specialization in Cyber Security)**. I am passionate about using technology to solve problems and am committed to helping my community stay safe and informed in the digital age.
+I am a first-year student pursuing a degree in **Computer Science and Engineering (Specialization in Cyber Security and Digital Forensic)**. I am passionate about using technology to solve problems and am committed to helping my community stay safe and informed in the digital age.
 
 ---
 *Developed as part of the Digital Ambassador Program 2026.*
